@@ -1,0 +1,15 @@
+Collecting fire
+  Using cached fire-0.4.0.tar.gz (87 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Requirement already satisfied: six in /home/ubuntu/anaconda3/envs/django_and_tensorflow/lib/python3.8/site-packages (from fire) (1.16.0)
+Collecting termcolor
+  Downloading termcolor-2.1.1-py3-none-any.whl (6.2 kB)
+Building wheels for collected packages: fire
+  Building wheel for fire (setup.py): started
+  Building wheel for fire (setup.py): finished with status 'done'
+  Created wheel for fire: filename=fire-0.4.0-py2.py3-none-any.whl size=115926 sha256=5deecbb64ea5a15a8f2f5cc3bc2818127471da4e524ebdc98a00b7479914e287
+  Stored in directory: /home/ubuntu/.cache/pip/wheels/1f/10/06/2a990ee4d73a8479fe2922445e8a876d38cfbfed052284c6a1
+Successfully built fire
+Installing collected packages: termcolor, fire
+Successfully installed fire-0.4.0 termcolor-2.1.1
